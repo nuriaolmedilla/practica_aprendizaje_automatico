@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # practica_aprendizaje_automatico
 
 ## **General Description**
@@ -41,3 +42,6 @@ The GLM model was chosen as the final solution due to its consistent performance
 ## **Contributors**
 Lucía Poyán, Claudia Gemeno, Nuria Olmedilla
 **Github**: https://github.com/nuriaolmedilla/practica_aprendizaje_automatico 
+=======
+# practica_aprendizaje_automatico
+>>>>>>> 3555733b81c5268ef7e3169be7abffe5ecd5b774
